@@ -51,5 +51,5 @@ Este repositório será atualizado conforme avanço no curso, adicionando exempl
 
 ---
 
-✍️ _Autor: Seu Nome_  
+✍️ _Autor: Narcisio Torquato_  
 📅 _Data de Início: Março de 2025_
